@@ -14,6 +14,7 @@ namespace directory
         [STAThread]
         static void Main()
         {
+            //some change(1)
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
